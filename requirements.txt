@@ -43,10 +43,6 @@ Pygments==2.6.1
 pylint==2.4.4
 pyrsistent==0.16.0
 python-dateutil==2.8.1
-pywin32==227
-pywinpty==0.5.7
-qtconsole==4.7.3
-QtPy==1.9.0
 requests==2.24.0
 scikit-learn==0.23.2
 scipy==1.5.4
@@ -64,3 +60,4 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 wrapt==1.11.2
+gunicorn
